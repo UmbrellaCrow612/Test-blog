@@ -8,6 +8,7 @@ import schemaTypes from 'all:part:@sanity/base/schema-type'
 import post from "./post"
 import author from './author'
 import category from "./category"
+import page from "./page"
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -20,5 +21,6 @@ export default createSchema({
     post,
     author,
     category,
+    page,
   ]),
 })
