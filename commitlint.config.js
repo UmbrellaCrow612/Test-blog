@@ -44,7 +44,8 @@ module.exports = {
         'translation',
         'security',
         'changeset',
+        'studio',
       ],
     ],
   },
-};
+}
