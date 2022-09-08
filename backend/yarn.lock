@@ -1228,7 +1228,7 @@
   resolved "https://registry.npmjs.org/@sanity/asset-utils/-/asset-utils-1.3.0.tgz#6460cd993a2c24368a6308028f3bc57df91f131e"
   integrity sha512-uyIOtGA4Duf+68I3BSbYHY5P+WGftn3QtNJD2Pn7h9WPGYsSrWViIPebE9yRN8N0NHhYj+hDQXaMpVdjG7r+zA==
 
-"@sanity/base@2.32.0", "@sanity/base@^2.32.0":
+"@sanity/base@2.32.0":
   version "2.32.0"
   resolved "https://registry.npmjs.org/@sanity/base/-/base-2.32.0.tgz#94b8b48cba2053988f91e886f28e4396d79ec593"
   integrity sha512-mWR2yKp2nmV3tloCh6IVs2SgUU2LwUkrhBEr6u/B8QbrjZe9GZPTf9wfSR6Ent/q0Bix9ArQUzBbbKu4WkpTRA==
@@ -1322,9 +1322,9 @@
   resolved "https://registry.npmjs.org/@sanity/color/-/color-2.1.14.tgz#96b486c24eecf9b657c358953a12cd5988810429"
   integrity sha512-ntCT72qUNck9XrCrMEpMrTGsNPK7edt3arou7YUBgb6IRjba6MtByTAz/LNXbRK5meMQFqYFpNKDErM351X+Ug==
 
-"@sanity/core@^2.32.0":
+"@sanity/core@2.32.0":
   version "2.32.0"
-  resolved "https://registry.npmjs.org/@sanity/core/-/core-2.32.0.tgz#03313f422dd7a2a206d967fbe4ed5194a95fb166"
+  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-2.32.0.tgz#03313f422dd7a2a206d967fbe4ed5194a95fb166"
   integrity sha512-KJgJUEl3r1PnKiTQTOyOpnkdL6NwQ42zm2J/wY1R4iEGZjrE35Py4vHH67OZadNxbo2szmi91Vnb6R9AfqyKKA==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.10.4"
@@ -1403,9 +1403,9 @@
     "@sanity/generate-help-url" "^3.0.0"
     lodash "^4.17.15"
 
-"@sanity/default-layout@^2.32.0":
+"@sanity/default-layout@2.32.0":
   version "2.32.0"
-  resolved "https://registry.npmjs.org/@sanity/default-layout/-/default-layout-2.32.0.tgz#abff3ffd59c3db0cd9a95d1fdb9f1ad0e56fa1b9"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.32.0.tgz#abff3ffd59c3db0cd9a95d1fdb9f1ad0e56fa1b9"
   integrity sha512-3IWd5R4ZXIB/Ip5tROJgERt3HuSiGEIGZenbihvHKIf8t77WzhjdjC6wGby4r2nfXOHL2ulwRLhqDiPo3qCoNg==
   dependencies:
     "@portabletext/react" "^1.0.0"
@@ -1427,9 +1427,9 @@
     react-virtual "^2.10.4"
     rxjs "^6.5.3"
 
-"@sanity/default-login@^2.32.0":
+"@sanity/default-login@2.32.0":
   version "2.32.0"
-  resolved "https://registry.npmjs.org/@sanity/default-login/-/default-login-2.32.0.tgz#618ae07e8fb9b301c5afd190e631b50021e4b2a6"
+  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.32.0.tgz#618ae07e8fb9b301c5afd190e631b50021e4b2a6"
   integrity sha512-wRHyRFeDoV1C9m3cEUUPCnIjui/FdCB6KCXlTaXG0VcZLVRWoOejqtFN1TxtV+DZ/mQnnl7ObVYn3E5lG2KfnA==
   dependencies:
     "@sanity/base" "2.32.0"
@@ -1440,9 +1440,9 @@
     prop-types "^15.6.0"
     rxjs "^6.5.3"
 
-"@sanity/desk-tool@^2.32.0":
+"@sanity/desk-tool@2.32.0":
   version "2.32.0"
-  resolved "https://registry.npmjs.org/@sanity/desk-tool/-/desk-tool-2.32.0.tgz#335d2a0774bcd69006aa9ca79e5bf69ec12334a9"
+  resolved "https://registry.yarnpkg.com/@sanity/desk-tool/-/desk-tool-2.32.0.tgz#335d2a0774bcd69006aa9ca79e5bf69ec12334a9"
   integrity sha512-R1/UrjjOGzwy3YSsoNZP8F2oa2cIZ51SB5SaNVCkMxF/dmz/dlzqcdJWSwQwN8dJrl4XNJfRM7WInPcso87uRw==
   dependencies:
     "@reach/auto-id" "^0.13.2"
@@ -1480,9 +1480,9 @@
   dependencies:
     diff-match-patch "^1.0.4"
 
-"@sanity/eslint-config-studio@^2.0.0":
+"@sanity/eslint-config-studio@2.0.0":
   version "2.0.0"
-  resolved "https://registry.npmjs.org/@sanity/eslint-config-studio/-/eslint-config-studio-2.0.0.tgz#1c7a0a559ff364c475d951fe882bfdc33c41ca38"
+  resolved "https://registry.yarnpkg.com/@sanity/eslint-config-studio/-/eslint-config-studio-2.0.0.tgz#1c7a0a559ff364c475d951fe882bfdc33c41ca38"
   integrity sha512-dlrtfrtrYd9gmC3/HO+aZ4QMPWbdDMPNGouFPAk/r3izR9E4EYlL5o7B9nucSEtz9hJmqUfLBQmXsTc571J4uA==
   dependencies:
     "@babel/core" "^7.16.7"
@@ -1876,9 +1876,9 @@
     date-fns "^2.16.1"
     lodash "^4.17.15"
 
-"@sanity/vision@^2.32.0":
+"@sanity/vision@2.32.0":
   version "2.32.0"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-2.32.0.tgz#f542fb3f1d82b2d3860aa7cc3fa8b48fc5b84f46"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.32.0.tgz#f542fb3f1d82b2d3860aa7cc3fa8b48fc5b84f46"
   integrity sha512-o5JtO8IO07lRN4jy8POT7FvSdhEC2VVSI89nrWVlIYSSiyieEip0CB2C64Fh/7DjY6cmV5bkFG0rVKjaXlyzzQ==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
@@ -4418,9 +4418,9 @@ eslint-visitor-keys@^3.3.0:
   resolved "https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz#f6480fa6b1f30efe2d1968aa8ac745b862469826"
   integrity sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==
 
-eslint@^8.6.0:
+eslint@8.23.0:
   version "8.23.0"
-  resolved "https://registry.npmjs.org/eslint/-/eslint-8.23.0.tgz#a184918d288820179c6041bb3ddcc99ce6eea040"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.23.0.tgz#a184918d288820179c6041bb3ddcc99ce6eea040"
   integrity sha512-pBG/XOn0MsJcKcTRLr27S5HpzQo4kLr+HjLQIyK4EiCsijDl/TB+h5uEuJU6bQ8Edvwz1XWOjpaP2qgnXGpTcA==
   dependencies:
     "@eslint/eslintrc" "^1.3.1"
@@ -8323,7 +8323,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.7, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7, prop-types@^15.7.2, prop-types@^15.8.1:
+prop-types@15.8.1, prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.7, prop-types@^15.6.0, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -8551,9 +8551,9 @@ react-copy-to-clipboard@^5.0.4:
     copy-to-clipboard "^3.3.1"
     prop-types "^15.8.1"
 
-react-dom@^17.0:
+react-dom@17.0.2:
   version "17.0.2"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-17.0.2.tgz#ecffb6845e3ad8dbfcdc498f0d0a939736502c23"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.2.tgz#ecffb6845e3ad8dbfcdc498f0d0a939736502c23"
   integrity sha512-s4h96KtLDUQlsENhMn1ar8t2bEa+q/YAtj8pPPdIjPDGBDIVNsrD9aXNWqspUe6AzKCIG0C1HZZLqLV7qpOBGA==
   dependencies:
     loose-envify "^1.1.0"
@@ -8720,9 +8720,9 @@ react-virtual@^2.10.4:
   dependencies:
     "@reach/observe-rect" "^1.1.0"
 
-react@^17.0:
+react@17.0.2:
   version "17.0.2"
-  resolved "https://registry.npmjs.org/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
+  resolved "https://registry.yarnpkg.com/react/-/react-17.0.2.tgz#d0b5cc516d29eb3eee383f75b62864cfb6800037"
   integrity sha512-gnhPt75i/dq/z3/6q/0asP78D0u592D5L1pd7M8P+dck6Fu/jJeL6iVVK23fptSUZj8Vjf++7wXA8UNclGQcbA==
   dependencies:
     loose-envify "^1.1.0"
@@ -9758,9 +9758,9 @@ style-value-types@5.0.0:
     hey-listen "^1.0.8"
     tslib "^2.1.0"
 
-styled-components@^5.2.0:
+styled-components@5.3.5:
   version "5.3.5"
-  resolved "https://registry.npmjs.org/styled-components/-/styled-components-5.3.5.tgz#a750a398d01f1ca73af16a241dec3da6deae5ec4"
+  resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-5.3.5.tgz#a750a398d01f1ca73af16a241dec3da6deae5ec4"
   integrity sha512-ndETJ9RKaaL6q41B69WudeqLzOpY1A/ET/glXkNZ2T7dPjPqpPCXXQjDFYZWwNnE5co0wX+gTCqx9mfxTmSIPg==
   dependencies:
     "@babel/helper-module-imports" "^7.0.0"
