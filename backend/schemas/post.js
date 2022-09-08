@@ -56,6 +56,11 @@ export default {
       type: 'date',
     },
     {
+      title: 'Preview',
+      name: 'preview',
+      type: 'string',
+    },
+    {
       title: 'Content',
       name: 'content',
       type: 'array',
